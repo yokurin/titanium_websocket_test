@@ -1,0 +1,8 @@
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/com/sample/hayashi/ApplicationStylesheet.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/com/sample/hayashi/AssetCryptImpl.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/com/sample/hayashi/R.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/com/sample/hayashi/Tisocket_ioActivity.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/com/sample/hayashi/Tisocket_ioAppInfo.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/com/sample/hayashi/Tisocket_ioApplication.java"
+"/Users/hayashi/Documents/Titanium_Studio_Workspace/websocket_test/titanium/build/android/gen/ti/modules/titanium/ui/R.java"
