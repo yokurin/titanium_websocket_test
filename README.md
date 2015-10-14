@@ -1,0 +1,3 @@
+# titanium_websocket_test
+titaniumを使ったwebsocketのサンプルアプリ
+
